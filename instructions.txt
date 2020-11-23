@@ -4,3 +4,4 @@ What are the stages of SDLC? explain
 Define five SDLC moldels (methodology).
 Take one of the SDLC models and explain the implementation process.
 Describe how to apply SDLC model in the version control App.
+does the edit change in real time?
