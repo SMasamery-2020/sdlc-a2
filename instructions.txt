@@ -1,6 +1,21 @@
 With you partner search the following questions and create a presentation.
 What is SDLC?
-What are the stages of SDLC? explain 
+  SDLC is the software development life cycle, which is a process used to develop software.
+What are the stages of SDLC? explain
+  1.Planning. 
+  2.Define requirements
+  3.Designing and prototyping
+  4.Software development
+  5.Testing
+  6.Deployment
+  7.Operations and Maintenance
 Define five SDLC moldels (methodology).
+  Waterfall Model: Each stage of development flows into itself, without making edits to previous phases.
+  V-Shaped Model: Each stage of development is tested directly after, and then goes onto the next stage.
+  Iterative Model: Every change made to a program is tested until the product is complete. This causes a new version of the software to be made every edit.
+  Spiral Model: The software passes through the four phases over and over until the process is complete.
+  Big Bang Model: Little to no software or planning is used, and is not recommended for larger projects.
 Take one of the SDLC models and explain the implementation process.
+  The implementation process of the spiral model is
 Describe how to apply SDLC model in the version control App.
+  The waterfall model would be the most effective model for the version control app, because of it being a smaller program. Some planning would be needed due to it having text, so a script of the text would be needed.
